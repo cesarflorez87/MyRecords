@@ -5,8 +5,12 @@
       <map>
         <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/drawable/button_rounder.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/layout-land/activity_main.xml" value="0.17328042328042328" />
+        <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/layout-land/activity_register.xml" value="0.18" />
         <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/layout/activity_main_reminders.xml" value="0.1" />
         <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/layout/activity_register.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/layout/activity_reminders.xml" value="0.18" />
+        <entry key="..\:/Users/CESAR/Desktop/New/app/src/main/res/layout/activity_user.xml" value="0.14855072463768115" />
       </map>
     </option>
   </component>
